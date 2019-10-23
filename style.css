@@ -1,0 +1,22 @@
+.section_testimonial{
+ position: relative;
+ background-color: antiquewhite;
+}
+
+.testi_photo{
+ width: auto;
+ height: 250px;
+ margin: 20px;
+}
+
+.testimonial_bar{
+ display: block;
+}
+
+.main_nav{
+ float: left;
+ background: #f5f5f5;
+ width: 70%;
+ margin: 15px;
+}
+
